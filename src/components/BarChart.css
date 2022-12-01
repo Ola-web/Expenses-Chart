@@ -1,0 +1,48 @@
+.barChart {
+    background-color: white;
+    margin-top: 1rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.barChart > h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    
+}
+
+.barChart-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-top: 1.2rem;
+}
+
+.barChart-bottomLeft > p{
+    font-size: small;
+    opacity: .6;
+}
+
+.barChart-bottomLeft > h1{
+   font-size: 2rem;
+}
+
+.barChart-bottomRight {
+    align-self: flex-end;
+    
+}
+
+.barChart-bottomRight > h5 {
+  margin-left: 50px;
+}
+
+.barChart-bottomRight > p{
+    font-size: small;
+    opacity: .6;
+}
+
+hr {
+    margin-top: 1.3rem;
+    opacity: .2;
+}
+
